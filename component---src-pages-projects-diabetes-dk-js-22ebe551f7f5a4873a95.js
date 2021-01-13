@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{hSty:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),c=n.n(a),o=n("ZndZ");e.default=function(t){return c.a.createElement(o.a,{projectPath:"diabetes-dk"})}}}]);
+//# sourceMappingURL=component---src-pages-projects-diabetes-dk-js-22ebe551f7f5a4873a95.js.map

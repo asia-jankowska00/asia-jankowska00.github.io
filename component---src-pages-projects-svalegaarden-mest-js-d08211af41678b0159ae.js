@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{bk5N:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),c=t("ZndZ");n.default=function(e){return r.a.createElement(c.a,{projectPath:"svalegaarden-mest"})}}}]);
+//# sourceMappingURL=component---src-pages-projects-svalegaarden-mest-js-d08211af41678b0159ae.js.map
