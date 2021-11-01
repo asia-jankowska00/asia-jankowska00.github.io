@@ -110,7 +110,7 @@ const Navigation = props => {
               invertNav ? "gradient-underline-hover" : "white-underline-hover"
             }
           >
-            <Link to="/story">story</Link>
+            <Link to="/resume">resume</Link>
           </li>
 
           <li>
@@ -154,7 +154,7 @@ const Navigation = props => {
             <Link to="/values">values</Link>
           </li>
           <li className="gradient-half-background">
-            <Link to="/story">story</Link>
+            <Link to="/resume">resume</Link>
           </li>
         </ul>
       </nav>

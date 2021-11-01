@@ -100,9 +100,9 @@ const Homepage = () => {
                       my values <i className="fas fa-long-arrow-alt-right"></i>
                     </h4>
                   </Link>
-                  <Link to="/story">
+                  <Link to="/resume">
                     <h4 className="gradient-underline-hover padding-y-extra-small">
-                      my story <i className="fas fa-long-arrow-alt-right"></i>
+                      my resume <i className="fas fa-long-arrow-alt-right"></i>
                     </h4>
                   </Link>
                 </div>
